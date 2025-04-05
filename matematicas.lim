@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>17DBD6</corbanda>
+        <cornavega>E90AC1</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>MATEMÁTICAS</titulo>
+        <autor>Aura Pedroza Villa</autor>
+        <logo>Logo_math_class.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="applause-cheer-236786.mp3" modo="1" >Felicitaciones</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>15</tipo>
+              <cfondo>FF00FF</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Introducción "><![CDATA[<font size="12"><iframe width="560" height="315" src="https://www.youtube.com/embed/AI55fhyxt4E?si=8bI1SWnzY2MGMER1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></menu>
+              <menu boton="Definición"><![CDATA[
+<p align="left">
+<font color="#000000" face="Times New Roman" size="20">Las operaciones básicas son cuatro: <b>adición, resta, multiplicación y división</b>. Estas operaciones son fundamentales para la resolución de problemas y la comprensión de conceptos matemáticos. La adición y la resta se refieren a la suma o resta de dos o más números, mientras que la multiplicación y la división se refieren a la repetición o compartir de un número por otro.<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="Suma" imaxe="Diapositiva1.JPG"><![CDATA[]]></menu>
+              <menu boton="Resta " imaxe="Diapositiva2.JPG"><![CDATA[]]></menu>
+              <menu boton="Múltiplicación" imaxe="Diapositiva3.JPG"><![CDATA[]]></menu>
+              <menu boton="División " imaxe="Diapositiva4.JPG"><![CDATA[]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>Partes-Suma.jpg</imaxe>
+              <imfondo  trans="80">matematicas-concepto-lifeder-min.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>33</tipo>
+            <nonpasar>1</nonpasar>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>5</numero>
+              <numero>5</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <imaxe>Partes-Resta.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>33</tipo>
+            <nonpasar>1</nonpasar>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>4</numero>
+              <numero>4</numero>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <imaxe>Partes-Multiplicacion.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>33</tipo>
+            <nonpasar>1</nonpasar>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+              <imaxe>terminos_division.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>33</tipo>
+            <nonpasar>1</nonpasar>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="10" >
+              <tipo>39</tipo>
+            <nonpasar>1</nonpasar>
+              <modo>1</modo>
+            <parellas imaxe="2.png" texto="">1.png</parellas>
+              <parellas imaxe="4.png" texto="">3.png</parellas>
+              <parellas imaxe="6.png" texto="">5.png</parellas>
+              <parellas imaxe="8.png" texto="">7.png</parellas>
+              <parellas imaxe="10.png" texto="">9.png</parellas>
+              <parellas imaxe="12.png" texto="">11.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>50</tempo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <imaxe>matematicas-concepto-lifeder-min.jpg</imaxe>
+              <texto><![CDATA[En la siguiente imagen descubra unos simbolos muy conocidos y diga el nombre del conjunto de simbolos: ]]></texto>
+              <imfondo  posx="32" posy="6">operaciones-basicas-de-matematicas.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>operaciones basicas</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Lee y analiza la situación, luego elije la operación más apropiada para resolverla: </cabeceira>
+              <imaxe>la_heladeria.jpg</imaxe>
+              <texto>Joaquín tiene una empresa de helados y debe entregar 3 pedidos a diferentes clientes. El primer pedido es de 650 helados de chocolate, el segundo 120 helados de vainilla y el tercero de 430 helados de fresas. ¿Cuántos helados Joaquín debe preparar para sus clientes?</texto>
+              <resp texto="" valor="1">Suma</resp>
+              <resp texto="" valor="0">Resta </resp>
+              <resp texto="" valor="0">Múltiplicación</resp>
+              <resp texto="" valor="0">División</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Lee y analiza la situación, luego elije la operación más apropiada para resolverla: </cabeceira>
+              <imaxe>pangtalones.jpg</imaxe>
+              <texto>Diego vende pantalones a diferentes tiendas de la ciudad y cada uno tiene un valor de 120 $. Él distribuyó 55 pantalones para la tienda del centro, 130 para la tienda del señor Juan y 15 para la tienda de Luis. ¿Cuanto dinero en total gano Diego con la venta de los pantalones?</texto>
+              <resp texto="" valor="1">Suma</resp>
+              <resp texto="" valor="0">División</resp>
+              <resp texto="" valor="0">Resta </resp>
+              <resp texto="" valor="1">Múltiplicación</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Lee y analiza la situación, luego elije la operación más apropiada para resolverla: </cabeceira>
+              <imaxe>armario.jpg</imaxe>
+              <texto>Un conocido fabricante de muebles fabrica 50617 armarios para exportación hacia 8 países. Se sabe que cada país recibe la misma cantidad de armarios. ¿Cuántos armarios importó cada país?</texto>
+              <resp texto="" valor="1">División</resp>
+              <resp texto="" valor="0">Suma</resp>
+              <resp texto="" valor="0">Resta </resp>
+              <resp texto="" valor="0">Múltiplicación</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>9</tipo>
+              <cabeceira>Da click en las siguientes actividades y práctica las operaciones basicas:</cabeceira>
+              <imaxe>operaciones-basicas-de-matematicas.jpg</imaxe>
+              <liga posx="16" posy="99" ir="https://www.liveworksheets.com/w/es/matematicas/231939">Actividad 1</liga>
+              <liga posx="16" posy="158" ir="https://www.liveworksheets.com/w/es/matematicas/100607">Actividad 2</liga>
+              <liga posx="17" posy="216" ir="https://www.liveworksheets.com/w/es/matematicas/182808">Actividad Final</liga>
+        </paxina>
+    </libro>
+</lim>
